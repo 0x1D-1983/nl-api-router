@@ -1,0 +1,6 @@
+@EpexApi_HostAddress = http://localhost:5042
+
+GET {{EpexApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

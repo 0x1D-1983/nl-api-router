@@ -1,0 +1,6 @@
+@TrayportApi_HostAddress = http://localhost:5224
+
+GET {{TrayportApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
